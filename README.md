@@ -41,5 +41,5 @@ In addition, the meetings will give you a chance to get advice on analyses for y
 
 
 ## Contact Information:
--Josh: josh.chang@nih.gov
--Rafael: rafael.jimenezsilva@nih.gov
+- Josh: josh.chang@nih.gov
+- Rafael: rafael.jimenezsilva@nih.gov
