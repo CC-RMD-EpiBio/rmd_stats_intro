@@ -38,3 +38,8 @@ In addition, the meetings will give you a chance to get advice on analyses for y
 1. Parametric statistics
 2. Nonparametric statistics
 3. Frequently used statistical techniques in clinical studies
+
+
+## Contact Information:
+Josh: josh.chang@nih.gov
+Rafael: rafael.jimenezsilva@nih.gov
