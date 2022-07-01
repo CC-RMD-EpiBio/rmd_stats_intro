@@ -23,8 +23,7 @@ In addition, the meetings will give you a chance to get advice on analyses for y
 * https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/v/box-and-whisker-plot-exercise-example 
 * https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/other-measures-of-spread/v/range-and-mid-range 
 
-## Week 3
-1. Normal curve, Z-scores, hypothesis testing
+2. Normal curve, Z-scores, hypothesis testing
 * https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/z-scores/v/ck12-org-normal-distribution-problems-z-score 
 * https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-normal-distribution-problems-qualitative-sense-of-normal-distributions 
 * https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/v/z-table-for-proportion-below 
@@ -34,8 +33,11 @@ In addition, the meetings will give you a chance to get advice on analyses for y
 * https://www.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples 
 
   
-## Week 4
+## Week 3
 1. Regression
+
+## Week 4
+1. Let's talk about your analyses
 
 ## Contact Information:
 - Josh: josh.chang@nih.gov
