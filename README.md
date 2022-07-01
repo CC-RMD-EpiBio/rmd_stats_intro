@@ -35,10 +35,7 @@ In addition, the meetings will give you a chance to get advice on analyses for y
 
   
 ## Week 4
-1. Parametric statistics
-2. Nonparametric statistics
-3. Frequently used statistical techniques in clinical studies
-
+1. Regression
 
 ## Contact Information:
 - Josh: josh.chang@nih.gov
