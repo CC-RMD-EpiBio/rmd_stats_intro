@@ -35,6 +35,24 @@ In addition, the meetings will give you a chance to get advice on analyses for y
   
 ## Week 3
 1. Regression
+* Simple linear regression https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data#regression-library
+* when you do t-tests and anova and other tests you are implicitely doing regression https://www.youtube.com/watch?v=NF5_btOaCig
+* Multiple linear regression 
+* Generalized linear models
+   i. Logistic regression
+   ii. Poisson regression 
+* Mixed effects models
+   i. Repeated measures
+   ii. Hierarchical models
+
+2. Model generalizability
+* Cross validation
+* Information criterion
+
+3. Advanced topics
+* Bootstrap
+* Regularization 
+* Bayes
 
 ## Week 4
 1. Let's talk about your analyses
