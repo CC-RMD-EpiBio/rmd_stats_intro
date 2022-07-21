@@ -35,15 +35,19 @@ In addition, the meetings will give you a chance to get advice on analyses for y
   
 ## Week 3
 1. Regression
-* Simple linear regression https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data#regression-library
+* Simple linear regression
+    i. her whole series seems good: https://www.youtube.com/watch?v=KBTT052uwww&list=PLdxWrq0zBgPVjvYGoxlc2A5vIpO9NQvw3
+    ii.  https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data#regression-library
+
 * when you do t-tests and anova and other tests you are implicitely doing regression https://www.youtube.com/watch?v=NF5_btOaCig
-* Multiple linear regression 
+* Maximum likelihood interpretation of least squares: https://www.youtube.com/watch?v=avs4V7wBRw0
+* Multiple linear regression: https://www.youtube.com/watch?v=5tCSR5L4nWI
 * Generalized linear models
-   i. Logistic regression
-   ii. Poisson regression 
-* Mixed effects models
+   i. Logistic regression: https://www.youtube.com/watch?v=yIYKR4sgzI8
+   ii. Poisson regression: https://www.youtube.com/watch?v=Obpz_Uvo2rQ
+* Mixed effects models: https://www.youtube.com/watch?v=QeCJ9ON0WDc
    i. Repeated measures
-   ii. Hierarchical models
+   ii. Hierarchical models: 1. https://statmodeling.stat.columbia.edu/2014/01/21/everything-need-know-bayesian-statistics-learned-eight-schools/ 2. 
 
 2. Model generalizability
 * Cross validation
