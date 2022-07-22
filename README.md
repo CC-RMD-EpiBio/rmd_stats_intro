@@ -39,7 +39,9 @@ In addition, the meetings will give you a chance to get advice on analyses for y
     i. her whole series seems good: https://www.youtube.com/watch?v=KBTT052uwww&list=PLdxWrq0zBgPVjvYGoxlc2A5vIpO9NQvw3
     ii.  https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data#regression-library
 
-* when you do t-tests and anova and other tests you are implicitely doing regression https://www.youtube.com/watch?v=NF5_btOaCig
+* when you do t-tests and anova and other tests you are implicitely doing regression
+    * https://lindeloev.github.io/tests-as-linear/
+    *  https://www.youtube.com/watch?v=NF5_btOaCig
 * Maximum likelihood interpretation of least squares: https://www.youtube.com/watch?v=avs4V7wBRw0
 * Multiple linear regression: https://www.youtube.com/watch?v=5tCSR5L4nWI
 * Generalized linear models
