@@ -49,14 +49,16 @@ In addition, the meetings will give you a chance to get advice on analyses for y
    i. Repeated measures
    ii. Hierarchical models: 1. https://statmodeling.stat.columbia.edu/2014/01/21/everything-need-know-bayesian-statistics-learned-eight-schools/ 2. 
 
-2. Model generalizability
-* Cross validation
-* Information criterion
+2. Model generalizability: https://www.youtube.com/watch?v=RsBvptfzDPs
+* Bias variance tradeoff https://www.youtube.com/watch?v=EuBBz3bI-aA
+* Cross validation: https://www.youtube.com/watch?v=fSytzGwwBVw
+* Information criterion: https://www.youtube.com/watch?v=xS4jDHQfP2o
 
 3. Advanced topics
-* Bootstrap
-* Regularization 
-* Bayes
+* Bootstrap: https://www.youtube.com/watch?v=Xz0x-8-cgaQ
+* Regularization: Ridge - https://www.youtube.com/watch?v=Q81RR3yKn30  Lasso: https://www.youtube.com/watch?v=NGf0voTMlcs
+* Bayes: for babies https://www.youtube.com/watch?v=CcnLnKU26dg intro lecture https://www.youtube.com/watch?v=9wCnvr7Xw4E
+* Causal inference: https://www.youtube.com/watch?v=gRkUhg9Wb-I
 
 ## Week 4
 1. Let's talk about your analyses
