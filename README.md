@@ -61,8 +61,7 @@ In addition, the meetings will give you a chance to get advice on analyses for y
 * Regularization: Ridge - https://www.youtube.com/watch?v=Q81RR3yKn30  Lasso: https://www.youtube.com/watch?v=NGf0voTMlcs
 * Bayes: for babies https://www.youtube.com/watch?v=CcnLnKU26dg intro lecture https://www.youtube.com/watch?v=9wCnvr7Xw4E
 * Causal inference: https://www.youtube.com/watch?v=gRkUhg9Wb-I
-* Tests as Linear Models: https://lindeloev.github.io/tests-as-linear/ https://www.youtube.com/watch?v=NF5_btOaCig
-* 
+* Tests as Linear Models: https://lindeloev.github.io/tests-as-linear/    https://www.youtube.com/watch?v=NF5_btOaCig
 
 ## Week 4
 1. Let's talk about your analyses
