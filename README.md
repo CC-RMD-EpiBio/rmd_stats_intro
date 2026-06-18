@@ -1,5 +1,12 @@
 # RMD Summer Stats 101 refresher course
 
+## Update as of June 2026
+This repository has been archived and is no longer maintained.
+The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+It should not be used in production systems.
+
+## Introduction
+
 Welcome to our stats refresher course. The instructors for this summer are Rafael and Josh.
 The structure of this course is simple: Each week we will list online resources for you to review in advance of our weekly meeting.
 In the meeting, we will give a light overview of the topics and answer any questions that you might have.
